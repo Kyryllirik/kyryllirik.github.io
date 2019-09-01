@@ -415,7 +415,10 @@ article
 	{
 		font-size: 3rem;
 	}
-
+	.blog-text p
+	{
+		font-size: 40px;
+	}
 @media screen and (max-width:420px)
 {
 
