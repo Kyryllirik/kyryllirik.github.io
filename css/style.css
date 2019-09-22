@@ -349,10 +349,25 @@ article
 	color: #123D6A;
 	text-align: center;
 }
-
-
-
-
+.schedule
+{
+	background: #EDC7B7;
+	font-weight: 100;
+	margin:2%;
+	display: flex;
+	justify-content: center;
+	align-content: space-around;
+	flex-wrap: wrap;
+}
+.sch.day
+{
+	margin: 3%;
+}
+.lesson
+{
+	color:#123D6A;
+	font-size: 30px;
+}
 
 
 
@@ -419,6 +434,7 @@ article
 	{
 		font-size: 3rem;
 	}
+
 @media screen and (max-width:420px)
 {
 
