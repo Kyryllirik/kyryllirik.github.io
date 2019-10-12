@@ -139,7 +139,6 @@ article
 	border-radius: 5px;
 	box-shadow: rgba(0,0,0,0.2) 0 4px 2px -2px;
 	font-weight: 100;
-	display:inline-block;
 }
 .block-body
 {
@@ -368,6 +367,16 @@ article
 	color:#123D6A;
 	font-size: 30px;
 }
+.introduction
+{
+		font-weight: 100;
+		margin:2%;
+		display: flex;
+		justify-content: center;
+		align-content: space-around;
+		flex-wrap: wrap;
+	}
+}
 
 
 
@@ -421,10 +430,6 @@ article
 		display: block;
 		text-align: left;
 
-	}
-	.block
-	{
-		display: inline;
 	}
 	#news, #info, #schedule
 	{
