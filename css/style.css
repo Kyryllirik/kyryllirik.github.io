@@ -139,6 +139,7 @@ article
 	border-radius: 5px;
 	box-shadow: rgba(0,0,0,0.2) 0 4px 2px -2px;
 	font-weight: 100;
+	display: inline-block;
 }
 .block-body
 {
